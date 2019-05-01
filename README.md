@@ -2,6 +2,7 @@
 
 ## Requirements
 - [skinchanger](https://github.com/ESX-Org/skinchanger)
+- [esx_menu_default](https://github.com/ESX-Org/esx_menu_default)
 
 ## Download & Installation
 
